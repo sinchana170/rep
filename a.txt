@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 doll  pink
+=======
+doll phone
+>>>>>>> Stashed changes
