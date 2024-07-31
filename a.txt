@@ -3,3 +3,4 @@ doll  pink
 =======
 doll phone
 >>>>>>> Stashed changes
+red
